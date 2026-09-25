@@ -19,7 +19,7 @@ Mbenchmark 是一款基于 Flutter 开发的跨平台CPU跑分工具。
 - 轻量无广告
 
 ### 安装说明
-前往 [Releases](https://github.com/你的仓库地址/releases) 下载签名版 APK，在安卓设备安装。
+前往 [Releases](https://github.com/Dji2006-dev/M-Benchmark/releases) 下载，在设备安装。
 > 鸿蒙/华为设备安装时，系统会提示未知来源应用，临时授予权限即可完成安装。
 > ⚠️ 测试时设备会明显发热，请勿长时间连续跑。
 
@@ -43,7 +43,7 @@ It uses Dart Isolates for multi-threading, executing four types of computational
 - Lightweight, no advertisements
 
 ### Installation
-Download the signed APK from [Releases](https://github.com/your-repo-url/releases) and install it on your Android device.
+Download from [Releases](https://github.com/Dji2006-dev/M-Benchmark/releases) and install it on your device.
 > On HarmonyOS / Huawei devices, the system will warn about unknown-source applications. Grant temporary permission to install.
 > ⚠️ The device will get hot during benchmarking. Avoid repeated long-time runs.
 
